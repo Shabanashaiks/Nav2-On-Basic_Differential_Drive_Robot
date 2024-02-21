@@ -1,0 +1,15 @@
+/home/shabana/ros2_ws/src/basic_mobile_robot/install/basic_mobile_robot/share/ament_index/resource_index/package_run_dependencies/basic_mobile_robot
+/home/shabana/ros2_ws/src/basic_mobile_robot/install/basic_mobile_robot/share/ament_index/resource_index/parent_prefix_path/basic_mobile_robot
+/home/shabana/ros2_ws/src/basic_mobile_robot/install/basic_mobile_robot/share/basic_mobile_robot/environment/ament_prefix_path.sh
+/home/shabana/ros2_ws/src/basic_mobile_robot/install/basic_mobile_robot/share/basic_mobile_robot/environment/ament_prefix_path.dsv
+/home/shabana/ros2_ws/src/basic_mobile_robot/install/basic_mobile_robot/share/basic_mobile_robot/environment/path.sh
+/home/shabana/ros2_ws/src/basic_mobile_robot/install/basic_mobile_robot/share/basic_mobile_robot/environment/path.dsv
+/home/shabana/ros2_ws/src/basic_mobile_robot/install/basic_mobile_robot/share/basic_mobile_robot/local_setup.bash
+/home/shabana/ros2_ws/src/basic_mobile_robot/install/basic_mobile_robot/share/basic_mobile_robot/local_setup.sh
+/home/shabana/ros2_ws/src/basic_mobile_robot/install/basic_mobile_robot/share/basic_mobile_robot/local_setup.zsh
+/home/shabana/ros2_ws/src/basic_mobile_robot/install/basic_mobile_robot/share/basic_mobile_robot/local_setup.dsv
+/home/shabana/ros2_ws/src/basic_mobile_robot/install/basic_mobile_robot/share/basic_mobile_robot/package.dsv
+/home/shabana/ros2_ws/src/basic_mobile_robot/install/basic_mobile_robot/share/ament_index/resource_index/packages/basic_mobile_robot
+/home/shabana/ros2_ws/src/basic_mobile_robot/install/basic_mobile_robot/share/basic_mobile_robot/cmake/basic_mobile_robotConfig.cmake
+/home/shabana/ros2_ws/src/basic_mobile_robot/install/basic_mobile_robot/share/basic_mobile_robot/cmake/basic_mobile_robotConfig-version.cmake
+/home/shabana/ros2_ws/src/basic_mobile_robot/install/basic_mobile_robot/share/basic_mobile_robot/package.xml
